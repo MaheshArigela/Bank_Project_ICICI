@@ -1,0 +1,12 @@
+Hello.Java
+{
+Sample.text
+Int =a
+string=b
+}
+###############
+While true
+do
+inta 
+done
+
